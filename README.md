@@ -1,6 +1,5 @@
 
-## OmniVoice
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/omnivoice-colab/blob/main/OmniVoice_Colab.ipynb)
+
 
 ## Qwen3-TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Qwen3-TTS-Colab/blob/main/Qwen3_TTS_Colab.ipynb) <br>
